@@ -10,7 +10,7 @@ namespace HelloOldWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Old World, I am now back in C# in a new world");
+            Console.WriteLine("Hello Old World, I am now back in C# in a Github world");
             Console.ReadLine();
         }
     }
